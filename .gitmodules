@@ -4,3 +4,9 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:siyabuilds/shukuma_client.git
+[submodule "shuka_web"]
+	path = shuka_web
+	url = git@github.com:siyabuilds/shuka_web.git
+[submodule "web"]
+	path = web
+	url = git@github.com:siyabuilds/shukuma-web.git
