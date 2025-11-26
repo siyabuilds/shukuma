@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:siyabuilds/shukuma_backend.git
+[submodule "client"]
+	path = client
+	url = git@github.com:siyabuilds/shukuma_client.git
